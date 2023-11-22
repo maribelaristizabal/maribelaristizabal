@@ -26,7 +26,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Maribel!;I'm+a+web+Developer...;I'm+Cibersegurity;And+I'm+a+proud+Colombiana)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Maribel-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Maribel-shaikh575&label=Views&color=brightpink&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
