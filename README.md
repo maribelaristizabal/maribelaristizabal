@@ -22,6 +22,14 @@
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:maribelaristizabal079@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/maribelaristizabal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/maribel-aristizabal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Maribel!;I'm+a+web+Developer...;I'm+Cibersegurity;And+I'm+a+proud+Colombiana)](https://git.io/typing-svg)
 
 
