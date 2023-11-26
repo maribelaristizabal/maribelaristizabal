@@ -68,6 +68,7 @@
 
 
  <div align="center">
+    <hr>
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
