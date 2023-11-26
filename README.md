@@ -18,8 +18,8 @@
 
 
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
 <hr>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
 <!-- retro visitor counter -->  
