@@ -17,9 +17,14 @@
 </div>
 
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+</p>
 
 
 
@@ -28,7 +33,9 @@
 
 
 
-## 🙋‍♀️ Let's Connect
+ <div align="center">
+  <h3><b>😄 Can Connect With Me On</b></h3>
+  </div>
 <p align="center">
 	<a href="mailto:maribelaristizabal079@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/maribelaristizabal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
